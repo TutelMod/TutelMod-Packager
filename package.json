@@ -30,7 +30,7 @@
     "type": "git",
     "url": "https://github.com/PenguinMod/PenguinMod-Packager.git"
   },
-  "funding": "https://penguinmod.com/donate",
+  "funding": "https://tutelmod.com/donate",
   "license": "Apache-2.0",
   "dependencies": {
     "@fiahfy/icns": "0.0.7",
